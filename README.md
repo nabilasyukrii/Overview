@@ -50,7 +50,7 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
 | :--- | :--- | :--- |
 | **[Scraping & Visualization Kalibrr](https://github.com/yanihiola/scrapping_kalibrr)** | End-to-end project: Web scraping job data from Kalibrr and visualizing employment trends. | `Python` `Web Scraping` `Data Viz` |
 | **[Dashboard Wisata Jabar](https://github.com/zhiizah/ProjectMDSkel5)** | Interactive dashboard analyzing tourism statistics and trends in West Java. | `Business Intelligence` `Dashboard` |
-| **[Analisis Klasifikasi](https://github.com/nabilasyukrii/Analisis-Klasifikasi)** | Statistical classification modeling for predictive analysis. | `Supervised Learning` `Classification` |
+| **[Indonesian Education Clustering](https://github.com/nabilasyukrii/Indonesian-Education-Clustering)** | Statistical modeling for clustering province in Indonesia based on the quality of education. | `Unsupervised Learning` `Clustering` |
 
 ---
 
