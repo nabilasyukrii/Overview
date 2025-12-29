@@ -34,13 +34,15 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
 
 ---
 
-### 🔧 Tech Stack & Tools
+### SKILLS
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![Tidyverse](https://img.shields.io/badge/-Tidyverse-276DC3?logo=r&logoColor=white&style=flat) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) |
+<div align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/rapidminer/F05032" height="40" alt="DataMiner" />
+</div>
 
 ---
 
